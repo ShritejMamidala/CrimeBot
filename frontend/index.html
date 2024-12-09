@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CrimeBot</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body data-theme="dark">
+  <div class="container">
+    <header>
+      <h1>Welcome! I am CrimeBot</h1>
+      <button id="themeToggle">Toggle Dark/Light Mode</button>
+    </header>
+
+    <main>
+      <div class="video-container">
+        <video id="webcam" autoplay playsinline></video>
+      </div>
+
+      <div class="controls">
+        <button id="startCapture">Start Capture</button>
+        <button id="stopCapture" disabled>Stop Capture</button>
+      </div>
+
+      <div class="summary">
+        <h2>Person Summary</h2>
+        <div id="personSummary">
+          <p> </p>
+        </div>
+      </div>
+    </main>
+
+    <!-- trigger the textbox -->
+    <div class="robot-logo">
+      <img src="robot_logo.png" alt="Robot Logo" />
+    </div>
+
+    <div class="textbox-container" id="textboxContainer">
+      <div id="aboutMeTextbox" class="about-me-content">Greetings! I am CrimeBot. I am a surveillance tool that can identify faces and analyze their physical characteristics such as age, race, gender, hair color, eye shape and more. My goal is to help local law enforcement catch Porch Pirates. A Porch Pirate is a person that steals packages delivered to the customers doorstep. </div>
+    </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
