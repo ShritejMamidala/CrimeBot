@@ -18,33 +18,23 @@
 
 ---
 
-## 🧠 Key Features
+## Key Features
 
-- 🔍 **Face Detection & Tracking**: Utilizes YOLOv5 to detect faces and assign persistent IDs across frames.
-- 🧬 **Dual CNN Models**: One CNN predicts demographic data (e.g., age, gender), while the other extracts 28 visual attributes (e.g., glasses, hairstyle).
-- ✍️ **Natural Language Output**: Feature vectors from CNNs are processed by a Large Language Model (LLM) to generate clear, objective, human-readable suspect descriptions.
-- 📷 **Real-Time Video Processing**: Designed for seamless integration with home security systems or live webcam feeds.
-
----
-
-## 🛠 Tech Stack
-
-- Python
-- OpenCV
-- YOLOv5
-- PyTorch
-- Custom Convolutional Neural Networks (CNNs)
-- OpenAI / LLM API (or equivalent, depending on what you used)
+-  **Face Detection & Tracking**: Utilizes YOLOv8 to detect faces and assign persistent IDs across frames.
+-  **Dual CNN Models**: One CNN predicts demographic data (e.g., age, gender), while the other extracts 28 visual attributes (e.g., glasses, hairstyle).
+-  **Natural Language Output**: Feature vectors from CNNs are processed by a Large Language Model (LLM) to generate clear, objective, human-readable suspect descriptions.
+-  **Real-Time Video Processing**: Designed for seamless integration with home security systems or live webcam feeds.
 
 ---
+
 
 ## 🚀 How It Works
 
-1. **Input**: Live webcam footage or pre-recorded video.
-2. **Face Detection**: YOLOv5 identifies faces and assigns tracking IDs.
+1. **Input**: Live webcam footage.
+2. **Face Detection**: YOLOv8 identifies faces and assigns tracking IDs.
 3. **Attribute Extraction**: CNNs extract demographic + physical attributes.
 4. **Description Generation**: Processed via LLM to create natural-language suspect profiles.
-5. **Output**: Real-time visual tagging + descriptive metadata for review or use by law enforcement.
+5. **Output**: Real-time visual tagging + descriptive metadata for use by law enforcement.
 
 ---
 
