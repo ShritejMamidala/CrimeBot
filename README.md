@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="https://youtu.be/ccKL_JBEgvA">
-    <img src="https://youtu.be/ccKL_JBEgvA" alt="Watch the video" width="600"/>
   </a>
 </p>
 
