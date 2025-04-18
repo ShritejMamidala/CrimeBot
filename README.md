@@ -10,14 +10,6 @@
 
 ---
 
-## 👨‍💻 Author
-
-**Shritej Mamidala**  
-High school student with a passion for AI, machine learning, and ethical technology.  
-[GitHub](https://github.com/YOURUSERNAME) • [LinkedIn](https://linkedin.com/in/YOURPROFILE) *(optional)*
-
----
-
 ## 📖 Overview
 
 **CrimeBOT** is an AI-driven tool designed to help identify potential porch pirates by analyzing webcam footage in real-time. Using a combination of object detection, face tracking, and advanced machine learning models, it aims to assist law enforcement in recognizing and documenting suspects efficiently.
