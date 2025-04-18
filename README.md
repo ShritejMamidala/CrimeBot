@@ -1,4 +1,4 @@
-# 🚨 CrimeBOT: AI-Powered Porch Pirate Detection
+# CrimeBOT: AI-Powered Porch Pirate Detection
 
 > Real-time surveillance system using computer vision and machine learning to help identify porch pirates and prevent package theft.
 
