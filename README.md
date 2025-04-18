@@ -51,25 +51,3 @@
 CrimeBOT was built with ethical surveillance in mind. It does not perform identity recognition or personal data logging. The generated descriptions are objective and based solely on observable traits.
 
 ---
-
-## 🧪 Future Improvements
-
-- Improve tracking stability in low-light conditions  
-- Add integration with license plate readers  
-- Expand CNN training dataset for more diverse attribute detection  
-- Implement privacy mode for local-only logging
-
----
-
-## 📂 File Structure
-
-```bash
-crimebot/
-├── demo_video.mp4
-├── detect_faces.py
-├── track_ids.py
-├── cnn_model_1_demographics.pth
-├── cnn_model_2_attributes.pth
-├── llm_generate_description.py
-├── README.md
-└── requirements.txt
