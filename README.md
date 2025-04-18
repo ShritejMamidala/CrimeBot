@@ -6,10 +6,9 @@
 
 ## 📽️ Demo Video
 
-<p align="center">
-  <a href="https://youtu.be/ccKL_JBEgvA">
-  </a>
-</p>
+[![Watch the video](https://img.youtube.com/vi/ccKL_JBEgvA/maxresdefault.jpg)](https://youtu.be/ccKL_JBEgvA)
+
+### [Watch this video on YouTube](https://youtu.be/ccKL_JBEgvA)
 
 ---
 
