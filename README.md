@@ -2,9 +2,6 @@
 
 > Real-time surveillance system using computer vision and machine learning to help identify porch pirates and prevent package theft.
 
-![Status](https://img.shields.io/badge/status-Active-brightgreen)  
-![Built With](https://img.shields.io/badge/Built%20with-Python%2C%20YOLOv5%2C%20CNNs-blue)
-
 ---
 
 ## 📽️ Demo Video
